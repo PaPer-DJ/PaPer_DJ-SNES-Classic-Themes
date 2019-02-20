@@ -17,8 +17,10 @@ E:\hakchi\themes\snes\80s_neon.png
 
 A disfrutar viejuners!
 
+--------------------------------------
+
 Telegram: https://t.me/PaPer_DJ
 GitHub: https://github.com/PaPer-DJ
 
-Telegram Channel: 
+Canal Telegram Consolas MINI: 
 https://t.me/snesminiroms
