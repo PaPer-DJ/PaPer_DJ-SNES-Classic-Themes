@@ -4,17 +4,17 @@
 [PaPer_DJ] Mis propios Temas Editados y/o Modificados para la SNES Classic Mini
 
 
-Para poder utilizar los temas se han de copiar en la siguiente ruta:
+Para poder utilizar los temas se han de copiar los archivos en la siguiente ruta:
 
 MEMORIA EXTERNA: hakchi\themes\snes
 
 EJEMPLO: 
+E:\hakchi\themes\snes\SNES.80s_neon.tar.gz
+
+La primera vez que se accede al MOD y se pulsa sobre "Refresh" se descomprimen/instalan automáticamente (Tarda un rato, paciencia)
+Y una vez instalado quedaría en la siguiente ruta:
 E:\hakchi\themes\snes\80s_neon
-
-Además se han de copiar las imagenes incluidas con el mismo nombre del tema en la misma carpeta para poder visualizar la preview del tema antes de instalarlo.
-
-EJEMPLO:
-E:\hakchi\themes\snes\80s_neon.png
+E:\hakchi\themes\snes\80s_neon.png (Snapshot para la Preview del tema)
 
 
 A disfrutar viejuners!
