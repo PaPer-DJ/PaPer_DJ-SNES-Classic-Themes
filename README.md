@@ -12,8 +12,11 @@ EJEMPLO:
 E:\hakchi\themes\snes\SNES.80s_neon.tar.gz
 
 La primera vez que se accede al MOD y se pulsa sobre "Refresh" se descomprimen/instalan automáticamente (Tarda un rato, paciencia)
+
 Y una vez instalado quedaría en la siguiente ruta:
+
 E:\hakchi\themes\snes\80s_neon
+
 E:\hakchi\themes\snes\80s_neon.png (Snapshot para la Preview del tema)
 
 
