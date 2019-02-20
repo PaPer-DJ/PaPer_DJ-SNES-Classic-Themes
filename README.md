@@ -1,6 +1,5 @@
 # PaPer_DJ-SNES-Classic-Themes (TEMAS)
 [PaPer_DJ] My Own Edited or Moded Themes for the SNES Classic Mini
-
 [PaPer_DJ] Mis propios Temas Editados y/o Modificados para la SNES Classic Mini
 
 Para poder utilizar los temas se han de copiar en la siguiente ruta:
@@ -14,6 +13,7 @@ Además se han de copiar las imagenes incluidas con el mismo nombre del tema en 
 
 EJEMPLO:
 E:\hakchi\themes\snes\80s_neon.png
+
 
 A disfrutar viejuners!
 
