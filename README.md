@@ -19,7 +19,6 @@ A disfrutar viejuners!
 
 Telegram: https://t.me/PaPer_DJ
 GitHub: https://github.com/PaPer-DJ
-eMail: paperdj@hotmail.com
 
 Telegram Channel: 
 https://t.me/snesminiroms
