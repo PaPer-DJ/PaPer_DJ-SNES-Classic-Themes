@@ -21,7 +21,7 @@ E:\hakchi\themes\snes\80s_neon
 E:\hakchi\themes\snes\80s_neon.png (Snapshot para la Preview del tema)
 
 
-A disfrutar viejuners! @PaPer_DJ
+A disfrutar viejuners! #PaPer_DJ
 
 --------------------------------------
 
