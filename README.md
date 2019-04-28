@@ -25,19 +25,19 @@ A disfrutar viejuners! #PaPer_DJ
 
 --------------------------------------
 
-DefKorns Theme Selector MOD:
+DefKorns - Theme Selector MOD:
 -
 
 * https://github.com/DefKorns/om_theme-selector
 * https://github.com/DefKorns/om_theme-selector/releases
 
-CompCom's Options Menu:
+CompCom - Options Menu:
 -
 
 * https://github.com/CompCom/OptionsMenu/releases
 
 --------------------------------------
-PaPer_DJ Mini Scene Stuff:
+PaPer_DJ - Mini Scene Stuff:
 -
 
 Telegram: https://t.me/PaPer_DJ
