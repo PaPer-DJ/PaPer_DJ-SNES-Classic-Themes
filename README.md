@@ -30,12 +30,16 @@ DefKorns Theme Selector MOD:
 * https://github.com/DefKorns/om_theme-selector
 * https://github.com/DefKorns/om_theme-selector/releases
 
-CompCom's Options Menu
+CompCom's Options Menu:
 -
 
 * https://github.com/CompCom/OptionsMenu/releases
 
 --------------------------------------
+PaPer_DJ Mini Scene Stuff:
+-
+
+* https://github.com/PaPer-DJ/PaPer_DJ-SNES-Classic-Themes
 
 Telegram: https://t.me/PaPer_DJ
 GitHub: https://github.com/PaPer-DJ
