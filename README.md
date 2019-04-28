@@ -21,6 +21,12 @@ E:\hakchi\themes\snes\80s_neon.png (Snapshot para la Preview del tema)
 
 
 A disfrutar viejuners!
+--------------------------------------
+
+DefKorns Theme Selector MOD:
+
+* https://github.com/DefKorns/om_theme-selector
+* https://github.com/DefKorns/om_theme-selector/releases
 
 --------------------------------------
 
