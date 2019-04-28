@@ -4,6 +4,7 @@
 [PaPer_DJ] Mis propios Temas Editados y/o Modificados para la SNES Classic Mini
 
 
+
 Para poder utilizar los temas se han de copiar los archivos en la siguiente ruta:
 
 MEMORIA EXTERNA: hakchi\themes\snes
@@ -20,7 +21,7 @@ E:\hakchi\themes\snes\80s_neon
 E:\hakchi\themes\snes\80s_neon.png (Snapshot para la Preview del tema)
 
 
-A disfrutar viejuners!
+A disfrutar viejuners! #PaPer_DJ
 
 --------------------------------------
 
