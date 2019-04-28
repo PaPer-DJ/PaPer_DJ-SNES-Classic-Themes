@@ -30,6 +30,11 @@ DefKorns Theme Selector MOD:
 * https://github.com/DefKorns/om_theme-selector
 * https://github.com/DefKorns/om_theme-selector/releases
 
+CompCom's Options Menu
+-
+
+* https://github.com/CompCom/OptionsMenu/releases
+
 --------------------------------------
 
 Telegram: https://t.me/PaPer_DJ
