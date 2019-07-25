@@ -40,8 +40,17 @@ CompCom - Options Menu:
 PaPer_DJ - Mini Scene Stuff:
 -
 
-Telegram: https://t.me/PaPer_DJ
-GitHub: https://github.com/PaPer-DJ
+Telegram: https://t.me/PaPer_DJ 
+
+GitHub: https://github.com/PaPer-DJ 
+
+YouTube: https://www.youtube.com/user/PaPerDJ 
+
+eMail: paperdj@hotmail.com
+
+Canal Telegram Consolas MINI: 
+
+✓ https://t.me/snesminiroms
 
 Canal Telegram Consolas MINI: 
 https://t.me/snesminiroms
