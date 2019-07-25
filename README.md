@@ -51,6 +51,3 @@ eMail: paperdj@hotmail.com
 Canal Telegram Consolas MINI: 
 
 ✓ https://t.me/snesminiroms
-
-Canal Telegram Consolas MINI: 
-https://t.me/snesminiroms
