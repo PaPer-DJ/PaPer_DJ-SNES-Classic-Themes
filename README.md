@@ -3,7 +3,7 @@
 
 [PaPer_DJ] Mis propios Temas Editados y/o Modificados para la SNES Classic Mini
 
-
+✓ DEMO THEMES en YouTube: https://www.youtube.com/playlist?list=PLQrqGF-it8XNTEF7VoBG0kpC6oW7EtI_F
 
 Para poder utilizar los temas se han de copiar los archivos en la siguiente ruta:
 
